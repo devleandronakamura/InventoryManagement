@@ -1,4 +1,4 @@
-# Inventário Management API
+# Inventory Management API
 
 Este é um projeto de gerenciamento de inventário, onde o banco de dados MySQL foi utilizado para armazenar as informações. Abaixo estão as instruções para configurar o banco de dados e a conexão.
 
